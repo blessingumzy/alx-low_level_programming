@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - should be able to print the name of the file it was complied from
+ * main - prints the name of the file
  *
- * Return: Should always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int ain(void)
 {
